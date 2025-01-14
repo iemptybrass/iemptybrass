@@ -1,5 +1,5 @@
 ## What Do I Use?
-  
+
 ### Operating System
 <div align="left">
 <a href="https://nixos.org/"><img src=https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white></a>  
